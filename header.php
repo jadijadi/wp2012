@@ -26,10 +26,21 @@
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <?php // Loads HTML5 JavaScript file to add support for HTML5 elements in older IE versions. ?>
 <!--[if lt IE 9]>
-<script src="<?php echo get_template_directory_uri(); ?>/js/html5.js" type="text/javascript"></script>
+<script src="/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
 <![endif]-->
-<?php wp_head(); ?>
-<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/rtl.css" type="text/css" />
+
+
+
+<link rel="alternate" type="application/rss+xml" title="کیبرد آزاد &raquo; Feed" href="http://feeds.feedburner.com/freekeyboard" />
+<link rel="alternate" type="application/rss+xml" title="کیبرد آزاد &raquo; Comments Feed" href="http://jadi.net/comments/feed/" />
+<link rel='stylesheet' id='wp-polls-css'  href='/wp-content/plugins/wp-polls/polls-css.css?ver=2.63' type='text/css' media='all' />
+<link rel='stylesheet' id='NextGEN-css'  href='/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='shutter-css'  href='/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.css?ver=1.3.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='/wp-content/themes/twentytwelve/style.css?ver=3.5.1' type='text/css' media='all' />
+
+
+<link rel="stylesheet" href="/wp-content/themes/twentytwelve/rtl.css" type="text/css" />
 </head>
 
 <body <?php body_class(); ?>>
