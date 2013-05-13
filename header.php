@@ -41,6 +41,7 @@
 
 
 <link rel="stylesheet" href="/wp-content/themes/twentytwelve/rtl.css" type="text/css" />
+<?php wp_head(); ?>
 </head>
 
 <body <?php body_class(); ?>>
