@@ -7,6 +7,16 @@ of your CSS stylesheet in a separate stylesheet file named rtl.css.
 See http://codex.wordpress.org/Right_to_Left_Language_Support
 */
 
+@font-face {
+	font-family: "Droid Arabic Naskh";
+	src: url("fonts/DroidNaskh-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Droid Arabic Naskh";
+	font-weight: bold;
+	src: url("fonts/DroidNaskh-Bold.ttf");
+}
 
 body {
 	direction: rtl;

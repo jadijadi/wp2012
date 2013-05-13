@@ -484,16 +484,17 @@ html {
 body {
 	font-size: 14px;
 	font-size: 1rem;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: "Droid Arabic Naskh", Helvetica, Arial, sans-serif;
 	text-rendering: optimizeLegibility;
 	color: #444;
 }
 body.custom-font-enabled {
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: "Droid Arabic Naskh", Tahoma, "Open Sans", Helvetica, Arial, sans-serif;
 }
 a {
 	outline: none;
 	color: #21759b;
+	text-decoration: none;
 }
 a:hover {
 	color: #0f3647;
@@ -845,7 +846,7 @@ article.sticky .featured-post {
 }
 .entry-content code,
 .comment-content code {
-	font-family: Consolas, Monaco, Lucida Console, monospace;
+	font-family: "Droid Arabic Naskh", Tahoma, Consolas, Monaco, Lucida Console, monospace;
 	font-size: 12px;
 	font-size: 0.857142857rem;
 	line-height: 2;
@@ -854,7 +855,7 @@ article.sticky .featured-post {
 .comment-content pre {
 	border: 1px solid #ededed;
 	color: #666;
-	font-family: Consolas, Monaco, Lucida Console, monospace;
+	font-family:"Droid Arabic Naskh", Tahoma,  Consolas, Monaco, Lucida Console, monospace;
 	font-size: 12px;
 	font-size: 0.857142857rem;
 	line-height: 1.714285714;
@@ -1725,3 +1726,10 @@ img#wpstats {
 		margin-left: 3.57142857rem;
 	}
 }
+
+
+
+#archives-2 ul {
+	direction: ltr;
+}
+
