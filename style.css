@@ -495,6 +495,7 @@ a {
 	outline: none;
 	color: #21759b;
 	text-decoration: none;
+	border-bottom: 1px dotted #21759b;
 }
 a:hover {
 	color: #0f3647;
