@@ -495,7 +495,6 @@ a {
 	outline: none;
 	color: #21759b;
 	text-decoration: none;
-	border-bottom: 1px dotted #21759b;
 }
 a:hover {
 	color: #0f3647;
@@ -737,6 +736,9 @@ article.sticky .featured-post {
 .entry-summary,
 .mu_register {
 	line-height: 1.714285714;
+}
+.entry-content a {
+        border-bottom: 1px dotted #21759b;
 }
 .entry-content h1,
 .comment-content h1,
@@ -1734,3 +1736,12 @@ img#wpstats {
 	direction: ltr;
 }
 
+
+.pdf24Plugin-cp {
+	text-align: left;
+}
+.pdf24Plugin-cp a {
+        border-bottom: none;
+	font-size: 9pt;
+	color: gray;
+}
