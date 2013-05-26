@@ -849,7 +849,7 @@ article.sticky .featured-post {
 }
 .entry-content code,
 .comment-content code {
-	font-family: "Droid Arabic Naskh", Tahoma, Consolas, Monaco, Lucida Console, monospace;
+	font-family: Consolas, Monaco, Lucida Console, monospace;
 	font-size: 12px;
 	font-size: 0.857142857rem;
 	line-height: 2;
@@ -857,8 +857,10 @@ article.sticky .featured-post {
 .entry-content pre,
 .comment-content pre {
 	border: 1px solid #ededed;
-	color: #666;
-	font-family:"Droid Arabic Naskh", Tahoma,  Consolas, Monaco, Lucida Console, monospace;
+	color: #6f6;
+	background: black;
+	direction: ltr;
+	font-family:  Consolas, Monaco, Lucida Console, monospace;
 	font-size: 12px;
 	font-size: 0.857142857rem;
 	line-height: 1.714285714;
