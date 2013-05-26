@@ -484,12 +484,12 @@ html {
 body {
 	font-size: 14px;
 	font-size: 1rem;
-	font-family: "Droid Arabic Naskh", Helvetica, Arial, sans-serif;
+	font-family: tahoma, Helvetica, Arial, sans-serif;
 	text-rendering: optimizeLegibility;
 	color: #333;
 }
 body.custom-font-enabled {
-	font-family: "Droid Arabic Naskh", Tahoma, "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: Tahoma, "Open Sans", Helvetica, Arial, sans-serif;
 }
 a {
 	outline: none;
