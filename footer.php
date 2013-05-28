@@ -22,3 +22,10 @@
 <?php wp_footer(); ?>
 </body>
 </html>
+
+<script >
+//$(document).ready(function () {
+//		$('head').append('<link rel=stylesheet id=twentytwelve  href=/wp-content/themes/twentytwelve/fontfaces.css type="text/css" media=all />');
+//});
+</script >
+

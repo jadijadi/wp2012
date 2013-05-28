@@ -38,10 +38,12 @@
 <link rel='stylesheet' id='shutter-css'  href='/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.css?ver=1.3.4' type='text/css' media='screen' />
 <!--link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' /-->
 <link rel='stylesheet' id='twentytwelve-style-css'  href='/wp-content/themes/twentytwelve/style.css?ver=3.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='twentytwelve'  href='/wp-content/themes/twentytwelve/fontfaces.css' type='text/css' media='all' />
 
 
 <link rel="stylesheet" href="/wp-content/themes/twentytwelve/rtl.css" type="text/css" />
+<link rel=stylesheet id=twentytwelve  href=/wp-content/themes/twentytwelve/fontfaces.css type="text/css" media=all />
+
+<!--script src="/js/jquery.js" type="text/javascript"></script-->
 </head>
 
 <body <?php body_class(); ?>>
