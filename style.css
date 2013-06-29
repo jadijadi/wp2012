@@ -1759,3 +1759,10 @@ img#wpstats {
 	margin: 0 10px 10px 0;
 	padding: 10px;
 }
+
+/* by pedram */
+.widget_archive li
+{
+direction:rtl;
+text-align:left;
+}
