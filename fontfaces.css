@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
         font-family: "Droid Arabic Naskh"; 
         src: url("fonts/DroidNaskh-Regular.ttf");
 }
@@ -17,4 +17,10 @@ body.custom-font-enabled {
 }
 
 
-
+*/
+body {
+        font-family: Tahoma, Helvetica, Arial, sans-serif; !imtortant
+}
+body.custom-font-enabled {
+        font-family: Tahoma, "Open Sans", Helvetica, Arial, sans-serif;  !imtortant
+}
