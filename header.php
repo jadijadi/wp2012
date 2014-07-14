@@ -43,6 +43,14 @@
 <link rel="stylesheet" href="/wp-content/themes/twentytwelve/rtl.css" type="text/css" />
 <link rel=stylesheet id=twentytwelve  href=/wp-content/themes/twentytwelve/fontfaces.css type="text/css" media=all />
 
+<link rel="shortcut icon" href="/favicon.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicon144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/favicon114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/favicon72.png" />
+<link rel="apple-touch-icon-precomposed" href="/favicon57.png" />
+
+
+
 <!--script src="/js/jquery.js" type="text/javascript"></script-->
 </head>
 

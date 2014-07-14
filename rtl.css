@@ -80,7 +80,7 @@ td {
 
 /* Aside posts */
 article.format-aside .aside {
-	border-right: 22px solid #a8bfe8;
+	/*border-right: 22px solid #a8bfe8;*/
 	border-left: none;
 }
 

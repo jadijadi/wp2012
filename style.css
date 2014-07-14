@@ -1042,10 +1042,10 @@ article.format-aside h1 a:hover {
 	color: #2e3542;
 }
 article.format-aside .aside {
-	padding: 24px 24px 0;
+	/*padding: 24px 24px 0;
 	padding: 1.714285714rem;
 	background: #d2e0f9;
-	border-left: 22px solid #a8bfe8;
+	border-left: 22px solid #a8bfe8;*/
 }
 article.format-aside p {
 	font-size: 13px;
@@ -1766,3 +1766,6 @@ img#wpstats {
 direction:rtl;
 text-align:left;
 }
+
+
+

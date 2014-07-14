@@ -15,7 +15,7 @@ msgstr ""
 
 #: functions.php:313
 msgid "Reply"
-msgstr "پاسخ"
+msgstr "نظر"
 
 #: image.php:26
 msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
@@ -98,7 +98,7 @@ msgstr "پیوند"
 #: content-status.php:27
 #: content.php:28
 msgid "% Replies"
-msgstr "% پاسخ"
+msgstr "% دیدگاه"
 
 #: content-aside.php:23
 #: content-image.php:23
@@ -107,7 +107,7 @@ msgstr "% پاسخ"
 #: content-status.php:27
 #: content.php:28
 msgid "1 Reply"
-msgstr "۱ پاسخ"
+msgstr "یک دیدگاه"
 
 #: 404.php:21
 msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
@@ -298,7 +298,7 @@ msgstr "ادامه‌ی خواندن<span class=\"meta-nav\">&rarr;</span>"
 #: content-status.php:27
 #: content.php:28
 msgid "Leave a reply"
-msgstr "پاسخ دهید"
+msgstr "نظر دهید"
 
 #: footer.php:17
 msgid "http://wordpress.org/"
