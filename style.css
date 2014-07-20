@@ -484,13 +484,15 @@ html {
 body {
 	font-size: 14px;
 	font-size: 1rem;
-	font-family: tahoma, Helvetica, Arial, sans-serif;
+	/*font-family: tahoma, Helvetica, Arial, sans-serif;*/
 	text-rendering: optimizeLegibility;
 	color: #333;
 }
+/*
 body.custom-font-enabled {
 	font-family: Tahoma, "Open Sans", Helvetica, Arial, sans-serif;
 }
+*/
 a {
 	outline: none;
 	color: #21759b;
