@@ -695,7 +695,6 @@ footer[role="contentinfo"] a:hover {
 }
 .entry-header .entry-title {
 	font-size: 20px;
-	font-size: 1.428571429rem;
 	line-height: 1.2;
 	font-weight: normal;
 }
@@ -1541,8 +1540,7 @@ img#wpstats {
 		display: none;
 	}
 	.entry-header .entry-title {
-		font-size: 22px;
-		font-size: 1.571428571rem;
+		font-size: 20pt;
 	}
 	#respond form input[type="text"] {
 		width: 46.333333333%;
